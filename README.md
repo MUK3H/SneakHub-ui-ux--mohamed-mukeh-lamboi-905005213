@@ -43,3 +43,5 @@ SneakHub is a modern high-fidelity mobile e-commerce application designed for pu
 ## Author
 
 Mohamed Mukeh Lamboi 
+
+•	Figma Prototype Link : https://www.figma.com/design/jPF0lK344eWfuhCEq8JNJe/SneakHub-UI-Assignment?node-id=0-1&t=3wmvrIbuEJb1KNoB-1
