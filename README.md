@@ -1,8 +1,6 @@
 # SneakHub-ui-ux--mohamed-mukeh-lamboi-905005213
 A high-fidelity mobile sneaker e-commerce UI/UX design created in Figma, featuring Home, Product Details, and Cart screens with a modern, user-centered shopping experience.
 
-# SneakHub UI/UX Design
-
 ## Overview
 
 SneakHub is a modern high-fidelity mobile e-commerce application designed for purchasing premium sneakers.
@@ -45,4 +43,3 @@ SneakHub is a modern high-fidelity mobile e-commerce application designed for pu
 
 Mohamed Mukeh Lamboi 
 
-•	Figma Prototype Link : https://www.figma.com/design/jPF0lK344eWfuhCEq8JNJe/SneakHub-UI-Assignment?node-id=0-1&t=3wmvrIbuEJb1KNoB-1
